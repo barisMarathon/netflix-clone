@@ -1,15 +1,15 @@
 # netflix-clone
 <<<<<<< HEAD
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+https://github.com/user-attachments/assets/56c40e58-ab36-492b-9a43-51abc5d704cf
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+![Ekran görüntüsü 2024-09-08 203034](https://github.com/user-attachments/assets/392fed70-3523-43fa-9dbe-d5e81044b6c5)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+##Added Features
+User selection screen
+Searchbar 
 
 ## Project Setup
 
