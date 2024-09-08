@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Animations */
+
+/* Fade and slide transition for the search bar */
+.fade-slide-enter-active, .fade-slide-leave-active {
+    transition: all 0.5s ease;
+  }
+  .fade-slide-enter-from, .fade-slide-leave-to {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  
+  /* Scale and fade transition for the profile selection */
+  .scale-fade-enter-active, .scale-fade-leave-active {
+    transition: all 0.5s ease;
+  }
+  .scale-fade-enter-from, .scale-fade-leave-to {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  /* Fade transition */
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 0.3s ease;  /* Adjust duration and easing as needed */
+}
+
+.fade-enter-from, .fade-leave-to {
+  opacity: 0;  /* Start or end with opacity 0 (fully transparent) */
+}
+
+.fade-enter-to, .fade-leave-from {
+  opacity: 1;  /* Element will fade to full opacity (1) when entering */
+}
