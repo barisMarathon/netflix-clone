@@ -1,5 +1,4 @@
-# netflix-clone
-<<<<<<< HEAD
+# Netflix-Clone
 
 
 https://github.com/user-attachments/assets/56c40e58-ab36-492b-9a43-51abc5d704cf
