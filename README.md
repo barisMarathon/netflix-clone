@@ -32,6 +32,9 @@ npm run dev
 ```sh
 npm run build
 ```
-=======
+<p>
 # Netflix-Clone  This project is a Netflix clone built by following John-Weeks-Dev's tutorial. You can find the original tutorial here: https://www.youtube.com/watch?v=PYz021FzZhg
 >>>>>>> 4cbe811a3af6a5971b4b8cce462882925125b093
+  
+</p>
+
